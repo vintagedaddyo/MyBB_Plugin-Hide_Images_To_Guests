@@ -1,0 +1,1 @@
+# MyBB_Plugin-Hide_Images_To_Guests
