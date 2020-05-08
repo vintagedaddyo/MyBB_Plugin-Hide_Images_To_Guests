@@ -1,0 +1,25 @@
+Information:
+
+Plugin Name: Hide Images from Guests
+Description: Allows you to show a message to guests instead of images.
+Version: 1.1
+Compatibility: 1.8
+Author: DragonFever
+Updated for 1.8 usage by: Darth Apple & Vintagedaddyo
+Website: http://www.dragonfever.info
+
+
+Current 1.8 version localization support:
+
+
+- english
+- englishgb
+- espanol
+- french
+- italiano
+
+Installation
+	
+1) Upload all contents within /Upload/ directory to your forums root directory.
+
+2) Go to your board's Admin CP. Enter Plugin Manager and activate Hide Images From Guests plugin.
